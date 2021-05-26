@@ -1,0 +1,7 @@
+Docker
+https://dotblogs.com.tw/swater111/2017/01/16/183653
+
+Python
+https://medium.com/@acer1832a/%E4%BD%BF%E7%94%A8-pymssql-%E9%80%A3%E6%8E%A5-ms-sql-server-9bcb6cd0c92c
+https://www.learncodewithmike.com/2020/02/python-mysql.html
+https://ithelp.ithome.com.tw/articles/10187443
