@@ -1,5 +1,5 @@
-Docker
-https://dotblogs.com.tw/swater111/2017/01/16/183653
+How To Serve Flask Applications with uWSGI and Nginx on Ubuntu 20.04
+https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-20-04
 
 Python
 https://medium.com/@acer1832a/%E4%BD%BF%E7%94%A8-pymssql-%E9%80%A3%E6%8E%A5-ms-sql-server-9bcb6cd0c92c
